@@ -1,3 +1,8 @@
+// Analysis.cpp
+// Copyright (c) 2022 Arthur Champernowne
+// email: champernowne@hotmail.com
+// 
+
 #include "Analysis.h"
 #include "index.h"
 

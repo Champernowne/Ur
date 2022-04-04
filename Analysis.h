@@ -1,3 +1,8 @@
+// Analysis.h
+// Copyright (c) 2022 Arthur Champernowne
+// email: champernowne@hotmail.com
+// 
+
 #pragma once
 #include "ur.h"
 void Nikki(UrStats & urs);

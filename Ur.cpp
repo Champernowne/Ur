@@ -1,3 +1,8 @@
+// Ur.cpp
+// Copyright (c) 2022 Arthur Champernowne
+// email: champernowne@hotmail.com
+// 
+
 // Ur.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 

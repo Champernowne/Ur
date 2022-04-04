@@ -1,3 +1,8 @@
+// Ur.h
+// Copyright (c) 2022 Arthur Champernowne
+// email: champernowne@hotmail.com
+// 
+
 #pragma once
 #include <iostream>
 #include <assert.h>

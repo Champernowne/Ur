@@ -1,0 +1,6 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h .c .hxx
+// %FileName%
+// Copyright (c) %CurrentYear% Arthur Champernowne
+// email: champernowne@hotmail.com
+// 
